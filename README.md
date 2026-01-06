@@ -20,6 +20,8 @@ View your app in AI Studio: https://ai.studio/apps/drive/1e3HPgEZu3PDigCmQuGJMSI
    `npm run dev`
 
 Some screenshots in UI   
-https://postimg.cc/nX5YSgJr][img]https://i.postimg.cc/nX5YSgJr/UIP1.png
+<img width="1146" height="859" alt="UIP1" src="https://github.com/user-attachments/assets/971fdcd5-0f71-41ba-8741-eff2fa808444" />
 
-https://postimg.cc/ZWgFs2Sv][img]https://i.postimg.cc/ZWgFs2Sv/UIP2.png
+<img width="451" height="411" alt="UIP2" src="https://github.com/user-attachments/assets/99dd678b-6b67-4477-a34e-5bddcb87e2dd" />
+
+
