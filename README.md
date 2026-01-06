@@ -19,7 +19,8 @@ View your app in AI Studio: https://ai.studio/apps/drive/1e3HPgEZu3PDigCmQuGJMSI
 3. Run the app:
    `npm run dev`
 
-Some screenshots in UI   
+Some screenshots in UI
+
 <img width="1146" height="859" alt="UIP1" src="https://github.com/user-attachments/assets/971fdcd5-0f71-41ba-8741-eff2fa808444" />
 
 <img width="451" height="411" alt="UIP2" src="https://github.com/user-attachments/assets/99dd678b-6b67-4477-a34e-5bddcb87e2dd" />
